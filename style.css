@@ -59,7 +59,7 @@ header ul > li{
 }
 
 #visual{
-    background-image: url(img/visual.png);
+    background-image: url(visual.png);
     background-position: 0% 20%;
     background-size: cover;
     width: 100%;
@@ -145,7 +145,7 @@ header ul > li{
 #hero > .photo{
     flex: 3;
     min-height: 300px;
-    background-image: url(img/section2.jpg);
+    background-image: url(section2.jpg);
     background-size: cover;
     background-position: 0px -70px;
 }
@@ -171,7 +171,7 @@ header ul > li{
 
 #support{
     min-height: 700px;
-    background-image: url(img/content.png);
+    background-image: url(content.png);
     background-repeat: no-repeat;
     background-position: center;
     display: flex;
